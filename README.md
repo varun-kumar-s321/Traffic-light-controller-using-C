@@ -20,6 +20,14 @@ It continuously controls red, green, and yellow signals using loop logic and tim
 2. Run the executable:
    ./traffic
 
+ ## Output
+The following output shows the continuous operation of the traffic light controller.
+The program repeatedly turns ON Red, Green, and Yellow lights in sequence,
+simulating a real-time traffic signal system.
+
+![Traffic Light Output](output.png)
+
+
 ## Applications
 - Traffic signal simulation
 - Embedded systems learning
